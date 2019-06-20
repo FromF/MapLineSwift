@@ -1,6 +1,6 @@
 # MapViewに軌跡を引くサンプルコード
 
-<img src="mapline.png" width=30%>
+<img src="./mapLine.png" width=30%>
 
 ## MKmapViewに軌跡を引くポイント
 
